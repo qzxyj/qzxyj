@@ -1,5 +1,6 @@
 # coding=utf-8
-#2021-05-14
+#2021-05-15 06:41
+@ Author:xyj
 import random
 # 获胜次数
 win_times = 0
